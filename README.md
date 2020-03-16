@@ -57,5 +57,5 @@ Other changes that don't modify src or test files
 Reverts a previous commit
 
 ---
-[Oficial site](https://www.conventionalcommits.org/en/v1.0.0/#summary)  
-[Commit types](https://github.com/commitizen/conventional-commit-types/blob/master/index.json)
+- [Oficial site](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+- [Commit types](https://github.com/commitizen/conventional-commit-types/blob/master/index.json)
